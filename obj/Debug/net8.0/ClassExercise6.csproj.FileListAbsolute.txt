@@ -1,0 +1,14 @@
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.AssemblyInfoInputs.cache
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.AssemblyInfo.cs
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.csproj.CoreCompileInputs.cache
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\bin\Debug\net8.0\ClassExercise6.exe
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\bin\Debug\net8.0\ClassExercise6.deps.json
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\bin\Debug\net8.0\ClassExercise6.runtimeconfig.json
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\bin\Debug\net8.0\ClassExercise6.dll
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\bin\Debug\net8.0\ClassExercise6.pdb
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.dll
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\refint\ClassExercise6.dll
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.pdb
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ClassExercise6.genruntimeconfig.cache
+C:\Users\Milani Kukuma\source\repos\netprojects\ClassExercise6\obj\Debug\net8.0\ref\ClassExercise6.dll
